@@ -11,6 +11,7 @@
 This is a **group project** developed as part of the **IFT598 - Data Visualization & Reporting** course at **Arizona State University**.  
 The project explores **Netflix's content distribution, audience preferences, and market trends** using **Tableau dashboards** and **SQL/Python-based data analysis**. It provides **data-driven insights** to help stakeholders make informed decisions on **content acquisition, marketing, and user experience optimization**
 🔗 **Live Dashboard:** [Netflix Dashboard on Tableau Public](https://public.tableau.com/app/profile/chethan.karunakara3731/viz/NetflixDashboard_17111396837250/StoryMoviesTVShows)  
+**Mural Link:** [Mural Link](https://app.mural.co/t/makv8663/m/makv8663/1668114166757/10377bf5bbcd400b1a7a181b79a2b456639dfff0)
 
 ---
 
